@@ -122,7 +122,7 @@ let angleRad=Math.PI/4*collidePoint;
 let direction=(ball.x<canvas.width/2)?1:-1;
 ball.velocityX=direction*ball.speed*Math.cos(angleRad);
 ball.velocityY=direction*ball.speed*Math.sin(angleRad);
-//ball.speed+=0.1;
+ball.speed+=0.1;
     }
 
     //update the score
