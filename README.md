@@ -16,8 +16,9 @@ Prerequisites:
 2.JS
 
 Steps:
-1. Copy both the files and paste into a single folder
+1. Copy both the files and paste into a single folder.
 2. Run html file and that's it! 
+3.Use mouse only to control the paddle do no use keyboard.
 
 
 =====================================================================================================================================================================================
